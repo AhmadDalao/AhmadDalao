@@ -5,7 +5,7 @@
 
 <!-- retro visitor counter -->
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/{user-name}/count.svg" />
+  <img src="https://profile-counter.glitch.me/AhmadDalao/count.svg" />
 </p>
 
 Here are some ideas to get you started:
