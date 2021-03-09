@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<a href="http://guestscounter.com"><img src="http://guestscounter.com/count.php?c_style=13&id=1615300252" border=0 alt="free hits counter"></a><br>
 <!--
 **AhmadDalao/AhmadDalao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
