@@ -1,12 +1,20 @@
-### Hi there 👋
 
-<!--
-**AhmadDalao/AhmadDalao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://github.com/AhmadDalao/AhmadDalao/1500x500.jpg)
+
+
 
 <!-- retro visitor counter -->
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/AhmadDalao/count.svg" />
 </p>
+
+
+
+### Hi there 👋
+
+<!--
+**AhmadDalao/AhmadDalao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
