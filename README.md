@@ -16,12 +16,13 @@ I'm a Software Enginner / Developer 👨🏻‍💻 who loves building and devel
 
 ### 📫 Find me on:
 
-
- <a href="https://twitter.com/AhmadDalao/" height="30px" width="30px" target="_blank"  rel="noreferrer noopener" title="twitter" aria-label="twitter"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/linkedin.svg" alt="twitter" height="30" width="30" /></a>
- 
+<p align="left">
+  
+ <a href="https://twitter.com/AhmadDalao/" height="30px" width="30px" target="_blank"  rel="noreferrer noopener" title="twitter" aria-label="twitter"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/twitter.svg" alt="twitter" height="30" width="30" /></a>
  <a href="https://www.linkedin.com/in/ahmad-dalao/"  height="30px" width="30px"  target="_blank"  rel="noreferrer noopener" title="Linkedin" aria-label="Linkedin"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
- 
 <a href="https://github.com/AhmadDalao" height="30px" width="30px" target="_blank" rel="noreferrer noopener" title="Github " aria-label="Github"><i class="fab fa-github"></i></a>
+
+</p>
 
 <!--
 **AhmadDalao/AhmadDalao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
