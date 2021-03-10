@@ -21,8 +21,8 @@ I'm a Software Enginner / Developer 👨🏻‍💻 who loves building and devel
 <p align="left">
 <a href="https://twitter.com/AhmadDalao/" height="40px" width="40px" target="_blank"  rel="noreferrer noopener" title="twitter" aria-label="twitter"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/twitter.svg" alt="twitter" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/ahmad-dalao/"  height="40px" width="40px"  target="_blank"  rel="noreferrer noopener" title="Linkedin" aria-label="Linkedin"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/9283958/ahmad-dalao" height="40px" width="40px" target="_blank" rel="noreferrer noopener" title="stackoverflow " aria-label="stackoverflow"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/stack-overflow.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="https://dalao.netlify.app/" height="40px" width="40px" target="_blank" rel="noreferrer noopener" title="My Website " aria-label="My Website"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/globe.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/9283958/ahmad-dalao" height="40px" width="40px" target="_blank" rel="noreferrer noopener" title="stackoverflow " aria-label="stackoverflow"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/stack-overflow.svg" alt="stackoverflow" height="40" width="40" /></a>
+<a href="https://dalao.netlify.app/" height="40px" width="40px" target="_blank" rel="noreferrer noopener" title="My Website " aria-label="My Website"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/globe.svg" alt="MY Website" height="40" width="40" /></a>
 </p>
 
 ### Languages and Tools I use:
