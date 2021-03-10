@@ -38,8 +38,8 @@ I'm a Software Enginner / Developer 👨🏻‍💻 who loves building and devel
 ### <b>⚡📈 My GitHub Statistics 📈⚡</b>
 
 <p align="left">
-<p><img   height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmaddalao&" alt="ahmaddalao" /></p>
-<p>&nbsp;<img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ahmaddalao&show_icons=true&locale=en" alt="ahmaddalao" /></p>
+<p width="50%"><img   height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmaddalao&" alt="ahmaddalao" /></p>
+<p width="50%">&nbsp;<img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ahmaddalao&show_icons=true&locale=en" alt="ahmaddalao" /></p>
 </p>
 
 
