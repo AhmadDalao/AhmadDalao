@@ -24,6 +24,10 @@ I'm a Software Enginner / Developer 👨🏻‍💻 who loves building and devel
 <a href="https://stackoverflow.com/users/9283958/ahmad-dalao" height="40px" width="40px" target="_blank" rel="noreferrer noopener" title="stackoverflow " aria-label="stackoverflow"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/stack-overflow.svg" alt="stackoverflow" height="40" width="40" /></a>
 <a href="https://dalao.netlify.app/" height="40px" width="40px" target="_blank" rel="noreferrer noopener" title="My Website " aria-label="My Website"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/globe.svg" alt="MY Website" height="40" width="40" /></a>
 </p>
+<br />
+
+- 📫 How to reach me **ahmodmyd@gmail.com**
+- 👨‍💻 All of my projects are available at [https://dalao.netlify.app/](https://dalao.netlify.app/)
 
 
 ### Languages and Tools:
@@ -32,6 +36,12 @@ I'm a Software Enginner / Developer 👨🏻‍💻 who loves building and devel
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmaddalao&" alt="ahmaddalao" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmaddalao&show_icons=true&locale=en" alt="ahmaddalao" /></p>
+
+
+
+
+
 <!--
 **AhmadDalao/AhmadDalao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
