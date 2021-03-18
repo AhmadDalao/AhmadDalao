@@ -23,11 +23,10 @@ I'm a Software Enginner / Developer 👨🏻‍💻 who loves building and devel
 ### 📫⚡ Social ⚡:
 <br />
 <p align="left">
-<a href="https://twitter.com/AhmadDalao/" height="40px" width="40px" target="_blank"  rel="noreferrer noopener" title="twitter" aria-label="twitter"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/twitter.svg" alt="twitter" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/ahmad-dalao/"  height="40px" width="40px"  target="_blank"  rel="noreferrer noopener" title="Linkedin" aria-label="Linkedin"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/9283958/ahmad-dalao" height="40px" width="40px" target="_blank" rel="noreferrer noopener" title="stackoverflow " aria-label="stackoverflow"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/stack-overflow.svg" alt="stackoverflow" height="40" width="40" /></a>
+<a href="https://twitter.com/ahmaddalao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ahmaddalao" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmad-dalao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmad-dalao" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9283958/ahmad-dalao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9283958/ahmad-dalao" height="30" width="40" /></a>
 </p>
-<br />
 
 ### ⚡Languages and Tools⚡:
 <br />
@@ -47,7 +46,12 @@ I'm a Software Enginner / Developer 👨🏻‍💻 who loves building and devel
 <!--
 **AhmadDalao/AhmadDalao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+<p align="left">
+<a href="https://twitter.com/AhmadDalao/" height="40px" width="40px" target="_blank"  rel="noreferrer noopener" title="twitter" aria-label="twitter"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/twitter.svg" alt="twitter" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmad-dalao/"  height="40px" width="40px"  target="_blank"  rel="noreferrer noopener" title="Linkedin" aria-label="Linkedin"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/9283958/ahmad-dalao" height="40px" width="40px" target="_blank" rel="noreferrer noopener" title="stackoverflow " aria-label="stackoverflow"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/stack-overflow.svg" alt="stackoverflow" height="40" width="40" /></a>
+</p>
+<br />
 
 Here are some ideas to get you started:
 
