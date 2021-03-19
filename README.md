@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/AhmadDalao/AhmadDalao/blob/main/mybanner2.png)
+![Banner](https://github.com/AhmadDalao/AhmadDalao/blob/main/mybanner.png)
 
 
 
