@@ -17,7 +17,7 @@ I'm a Software Engineer / Developer 👨🏻‍💻 who loves building and devel
 <br />
 
 - 📫 How to reach me **ahmodmyd@gmail.com**
-- 👨‍💻 All of my projects are available at [https://dalao.netlify.app/](https://ahmaddalao.com/)
+- 👨‍💻 All of my projects are available at [https://ahmaddalao.com/](https://ahmaddalao.com/)
  <br />
 
 ### 📫⚡ Social ⚡:
